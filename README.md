@@ -1,1 +1,1 @@
-# es6-react-setup
+# es6-react-tutorial
